@@ -20,5 +20,3 @@ class MotivateApi {
       return (Left(e));
     }
   }
-}
-//563492ad6f91700001000001c2d7e479a1f54e989a88f308d705bb7d
